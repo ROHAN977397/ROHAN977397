@@ -39,7 +39,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ROHAN977397&theme=tokyonight" />
 </p>
-## 💻 Tech Stack
+##  💻 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,vscode" />
