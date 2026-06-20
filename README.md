@@ -30,3 +30,18 @@
 * 💡 Passionate about solving real-world problems through technology
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ROHAN977397&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ROHAN977397&theme=tokyonight" />
+</p>
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,html,css,javascript" />
+</p>
+
