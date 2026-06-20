@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=ROHAN+KUMAR+PADHI;DATA+SCIENCE+INTERN;MACHINE+LEARNING+ENTHUSIAST;WELCOME+TO+MY+GITHUB+PROFILE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=ROHAN+KUMAR+PADHI;DATA+SCIENCE+INTERN;MACHINE+LEARNING+ENTHUSIAST;GOOGLE+MAPS+2.6M+VIEWS+" />
 </h1>
 
 <p align="center">
