@@ -1,55 +1,32 @@
-<h1 align="center">🌌 ROHAN KUMAR PADHI 🌌</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=ROHAN+KUMAR+PADHI;DATA+SCIENCE+INTERN;MACHINE+LEARNING+ENTHUSIAST;WELCOME+TO+MY+GITHUB+PROFILE" />
+</h1>
 
 <p align="center">
-🚀 Data Science Intern @ Celebal Technologies
+  🚀 Data Science Intern @ Celebal Technologies
 </p>
 
 <p align="center">
-🎓 Computer Science Engineering • SOA University (ITER)
+  🎓 B.Tech Computer Science & Engineering @ SOA University (ITER)
 </p>
 
 <p align="center">
-📸 2.6M+ Google Maps Content Views • 🤖 Machine Learning • 💻 Python
+  📸 Google Maps Local Guide • 2.6M+ Content Views
 </p>
 
 <p align="center">
-⚡ Code • Analyze • Build • Innovate ⚡
+  🤖 Machine Learning • Data Science • Python • AI
 </p>
 
 ---
 
-### 🎯 Current Focus
+## 👋 About Me
 
-* 🤖 Data Science & Machine Learning
-* 📊 Data Analytics & Visualization
-* 💻 Python Development
-* 🚀 Open Source & Real-World Projects
-
-### 🏆 Highlights
-
-* 📸 2.6M+ Google Maps Content Views
-* 🤖 Data Science Intern @ Celebal Technologies
-* 🎓 B.Tech CSE @ SOA University (ITER)
+* 🎓 B.Tech CSE Student at SOA University (ITER), Bhubaneswar
+* 🤖 Interested in Data Science, Machine Learning and AI
+* 📊 Currently learning Data Analytics & Data Engineering
+* 🚀 Exploring Open Source and Real-World Projects
+* 📷 Google Maps Local Guide with 2.6M+ Content Views
 * 💡 Passionate about solving real-world problems through technology
 
-# 👋 Hi, I'm Rohan Kumar Padhi
-
-🚀 B.Tech Computer Science & Engineering Student at SOA University (Institute of Technical Education and Research - ITER), Bhubaneswar
-
-🤖 Data Science Intern @ Celebal Technologies
-
-📸 Google Maps Local Guide with 2.6M+ Google Maps Content Views
-
-🎮 Passionate about Data Science, Machine Learning, Full-Stack Development and Building Real-World Projects
-
 ---
-
-## 🌟 About Me
-
-* 🎓 B.Tech CSE @ SOA University, Bhubaneswar
-* 🏫 Institute of Technical Education and Research (ITER)
-* 💻 Interested in Data Science, Machine Learning, Data Analytics and Full-Stack Development
-* 🌱 Currently learning Data Analytics, AI and Data Engineering
-* 🚀 Exploring Open Source and Real-World Projects
-* 📷 Google Maps Contributor with 2.6M+ Content Views
-* 🎯 Always eager to learn, build and solve real-world problems
