@@ -44,4 +44,10 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,vscode" />
 </p>
+## 🌐 Connect With Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohan-kumar-padhi-604256335">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Rohan%20Kumar%20Padhi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
