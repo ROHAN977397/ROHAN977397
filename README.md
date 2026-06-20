@@ -1,11 +1,19 @@
+<h1 align="center">🌌 ROHAN KUMAR PADHI 🌌</h1>
+
+<h3 align="center">
+🚀 Code • Analyze • Build • Innovate
+</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Rohan%20Kumar%20Padhi&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=40" />
+🤖 Data Science Intern @ Celebal Technologies
 </p>
 
-<h3 align="center">🚀 Data Science Intern @ Celebal Technologies | B.Tech CSE @ SOA University (ITER)</h3>
+<p align="center">
+🎓 Computer Science Engineering • SOA University (ITER)
+</p>
 
 <p align="center">
-📸 Google Maps Local Guide • 2.6M+ Content Views • 💻 Machine Learning Enthusiast
+📸 Google Maps Local Guide | 2.6M+ Views
 </p>
 
 # 👋 Hi, I'm Rohan Kumar Padhi
