@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Rohan%20Kumar%20Padhi&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=40" />
+</p>
+
+<h3 align="center">🚀 Data Science Intern @ Celebal Technologies | B.Tech CSE @ SOA University (ITER)</h3>
+
+<p align="center">
+📸 Google Maps Local Guide • 2.6M+ Content Views • 💻 Machine Learning Enthusiast
+</p>
+
 # 👋 Hi, I'm Rohan Kumar Padhi
 
 🚀 B.Tech Computer Science & Engineering Student at SOA University (Institute of Technical Education and Research - ITER), Bhubaneswar
