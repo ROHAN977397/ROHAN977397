@@ -1,11 +1,7 @@
 <h1 align="center">🌌 ROHAN KUMAR PADHI 🌌</h1>
 
-<h3 align="center">
-🚀 Code • Analyze • Build • Innovate
-</h3>
-
 <p align="center">
-🤖 Data Science Intern @ Celebal Technologies
+🚀 Data Science Intern @ Celebal Technologies
 </p>
 
 <p align="center">
@@ -13,8 +9,28 @@
 </p>
 
 <p align="center">
-📸 Google Maps Local Guide | 2.6M+ Views
+📸 2.6M+ Google Maps Content Views • 🤖 Machine Learning • 💻 Python
 </p>
+
+<p align="center">
+⚡ Code • Analyze • Build • Innovate ⚡
+</p>
+
+---
+
+### 🎯 Current Focus
+
+* 🤖 Data Science & Machine Learning
+* 📊 Data Analytics & Visualization
+* 💻 Python Development
+* 🚀 Open Source & Real-World Projects
+
+### 🏆 Highlights
+
+* 📸 2.6M+ Google Maps Content Views
+* 🤖 Data Science Intern @ Celebal Technologies
+* 🎓 B.Tech CSE @ SOA University (ITER)
+* 💡 Passionate about solving real-world problems through technology
 
 # 👋 Hi, I'm Rohan Kumar Padhi
 
